@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BroadcastReceiver Ejemplo</string>
+    <string name="btn_texto">Iniciar Broadcast Receiver</string>
+    <string name="defult_texto_toast">Desconocemos el intent recibido</string>
+    <string name="batConectada_texto_toast">Batería conectada</string>
+    <string name="batDesconectada_texto_toast">Batería desconectada</string>
+    <string name="modAvionOn_texto_toast">Modo avión activado</string>
+    <string name="modAvionOff_texto_toast">Modo avión desactivado</string>
+    <string name="log_tag">PruebaLog</string>
+</resources>
